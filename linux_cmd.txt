@@ -1,0 +1,13 @@
+
+# Few important commands
+POST - Power on self test 
+BIOS - Basic Input Output System
+
+File Handling commands
+touch : It is used to create a file.
+cat   : This command is used to create a file. We can also append the data into the file.
+
+Directory Handling commands:
+ls    : Command is used to display the content of the directory.
+ls -a : Displays the content of the folder along with hiddent files and folders. (., ..)
+ls -l : Long listing of the files and folders with permission, owner, date, time and size.
